@@ -20,3 +20,14 @@ BEGIN
 		UpdatedBy VARCHAR(50) NULL
     )
 END
+
+GO
+
+INSERT INTO [Product] values('Aqua',GETDATE(),'SYSTEM',null,null)
+INSERT INTO [Product] values('Aquades',GETDATE(),'SYSTEM',null,null)
+INSERT INTO [Product] values('Le Minerale',GETDATE(),'SYSTEM',null,null)
+INSERT INTO [Product] values('Sprit',GETDATE(),'SYSTEM',null,null)
+INSERT INTO [Product] values('Coca-Cola',GETDATE(),'SYSTEM',null,null)
+INSERT INTO [Product] values('Fanta',GETDATE(),'SYSTEM',null,null)
+INSERT INTO [Product] values('Vit',GETDATE(),'SYSTEM',null,null)
+INSERT INTO [Product] values('Pure Life',GETDATE(),'SYSTEM',null,null)
