@@ -16,13 +16,13 @@ note : in this project, I use SQL SERVER as the database, Spring boot 3.1.1, and
 If you just need to test/run the whole project, please execute initiate_query.sql (in Query foler) first with your sql server.
 Then you have to adjust application.properties.
 
-https://github.com/alkadarr/springboot-simple-basic-code/blob/2cb6e93e4e91c614681fc827bc8abddc2e0916c7/src/main/resources/application.properties#L4C1-L8C79
+https://github.com/alkadarr/springboot-simple-basic-code/blob/2cb6e93e4e91c614681fc827bc8abddc2e0916c7/src/main/resources/application.properties#L4-L8
 
 replace it to your datasource information.
 
 otherwise, you can replace server port and servlet context path.
 
-https://github.com/alkadarr/springboot-simple-basic-code/blob/0e538abd3125dc7d2a731bc7674fea70d340f76e/src/main/resources/application.properties#L1C1-L1C1
+https://github.com/alkadarr/springboot-simple-basic-code/blob/0e538abd3125dc7d2a731bc7674fea70d340f76e/src/main/resources/application.properties#L1-L1
 
 then you can build and run the project.
 
