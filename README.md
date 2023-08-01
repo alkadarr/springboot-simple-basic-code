@@ -22,7 +22,7 @@ replace it to your datasource information.
 
 otherwise, you can replace server port and servlet context path.
 
-https://github.com/alkadarr/springboot-simple-basic-code/blob/0e538abd3125dc7d2a731bc7674fea70d340f76e/src/main/resources/application.properties#L1-L1
+https://github.com/alkadarr/springboot-simple-basic-code/blob/0e538abd3125dc7d2a731bc7674fea70d340f76e/src/main/resources/application.properties#L1-L2
 
 then you can build and run the project.
 
